@@ -1,4 +1,4 @@
-4407
+4410
 98C:\Users\Micro\Desktop\Projetos\landing_page_restaurante\ebac_talks\node_modules\has-flag\index.js133800621398097204 0
 90C:\Users\Micro\Desktop\Projetos\landing_page_restaurante\ebac_talks\node_modules\sharp\src133800624558712447 1
 90C:\Users\Micro\Desktop\Projetos\landing_page_restaurante\ebac_talks\node_modules\env-paths133800621399099805 1
@@ -8,7 +8,7 @@
 142C:\Users\Micro\Desktop\Projetos\landing_page_restaurante\ebac_talks\node_modules\@parcel\workers\test\integration\workerfarm\reverse-handle.js133800621404991579 0
 103C:\Users\Micro\Desktop\Projetos\landing_page_restaurante\ebac_talks\node_modules\domelementtype\lib\esm133800621399620100 1
 107C:\Users\Micro\Desktop\Projetos\landing_page_restaurante\ebac_talks\node_modules\utility-types\package.json133800621399979372 0
-78C:\Users\Micro\Desktop\Projetos\landing_page_restaurante\ebac_talks\.gitignore133800623004649384 0
+78C:\Users\Micro\Desktop\Projetos\landing_page_restaurante\ebac_talks\.gitignore133800626620594782 0
 122C:\Users\Micro\Desktop\Projetos\landing_page_restaurante\ebac_talks\node_modules\caniuse-lite\data\features\flexbox-gap.js133800621410600976 0
 80C:\Users\Micro\Desktop\Projetos\landing_page_restaurante\ebac_talks\package.json133800624567666010 0
 105C:\Users\Micro\Desktop\Projetos\landing_page_restaurante\ebac_talks\node_modules\semver\functions\sort.js133800621404303741 0
@@ -25,7 +25,7 @@
 91C:\Users\Micro\Desktop\Projetos\landing_page_restaurante\ebac_talks\node_modules\is-extglob133800621398307647 1
 115C:\Users\Micro\Desktop\Projetos\landing_page_restaurante\ebac_talks\node_modules\caniuse-lite\data\features\opus.js133800621414367886 0
 117C:\Users\Micro\Desktop\Projetos\landing_page_restaurante\ebac_talks\node_modules\cosmiconfig\dist\ExplorerSync.js.map133800621401174293 0
-72C:\Users\Micro\Desktop\Projetos\landing_page_restaurante\ebac_talks\dist133800624968883860 1
+72C:\Users\Micro\Desktop\Projetos\landing_page_restaurante\ebac_talks\dist133830866659573297 1
 128C:\Users\Micro\Desktop\Projetos\landing_page_restaurante\ebac_talks\node_modules\@parcel\transformer-json\lib\JSONTransformer.js133800621405747213 0
 117C:\Users\Micro\Desktop\Projetos\landing_page_restaurante\ebac_talks\node_modules\@swc\helpers\esm\_to_property_key.js133800621406394429 0
 112C:\Users\Micro\Desktop\Projetos\landing_page_restaurante\ebac_talks\node_modules\caniuse-lite\data\regions\VU.js133800621416250147 0
@@ -72,7 +72,7 @@
 96C:\Users\Micro\Desktop\Projetos\landing_page_restaurante\ebac_talks\node_modules\detect-libc\bin133800621398820550 1
 129C:\Users\Micro\Desktop\Projetos\landing_page_restaurante\ebac_talks\node_modules\electron-to-chromium\full-chromium-versions.json133800621400255857 0
 95C:\Users\Micro\Desktop\Projetos\landing_page_restaurante\ebac_talks\node_modules\ordered-binary133800621400455010 1
-82C:\Users\Micro\Desktop\Projetos\landing_page_restaurante\ebac_talks\src\index.html133800624534169383 0
+82C:\Users\Micro\Desktop\Projetos\landing_page_restaurante\ebac_talks\src\index.html133830866659131935 0
 130C:\Users\Micro\Desktop\Projetos\landing_page_restaurante\ebac_talks\node_modules\@swc\helpers\esm\_define_enumerable_properties.js133800621405432126 0
 126C:\Users\Micro\Desktop\Projetos\landing_page_restaurante\ebac_talks\node_modules\caniuse-lite\data\features\insert-adjacent.js133800621412427931 0
 100C:\Users\Micro\Desktop\Projetos\landing_page_restaurante\ebac_talks\node_modules\commander\Readme.md133800621408127219 0
@@ -89,15 +89,18 @@
 107C:\Users\Micro\Desktop\Projetos\landing_page_restaurante\ebac_talks\node_modules\@parcel\utils\package.json133800621410358579 0
 107C:\Users\Micro\Desktop\Projetos\landing_page_restaurante\ebac_talks\node_modules\caniuse-lite\data\features133800621416820135 1
 98C:\Users\Micro\Desktop\Projetos\landing_page_restaurante\ebac_talks\node_modules\@msgpackr-extract133800624567610024 1
-78C:\Users\Micro\Desktop\Projetos\landing_page_restaurante\ebac_talks\src\styles133800622107373141 1
+78C:\Users\Micro\Desktop\Projetos\landing_page_restaurante\ebac_talks\src\styles133830864729730950 1
 112C:\Users\Micro\Desktop\Projetos\landing_page_restaurante\ebac_talks\node_modules\caniuse-lite\data\regions\IL.js133800621411989027 0
 111C:\Users\Micro\Desktop\Projetos\landing_page_restaurante\ebac_talks\node_modules\type-fest\source\value-of.d.ts133800621401738166 0
 109C:\Users\Micro\Desktop\Projetos\landing_page_restaurante\ebac_talks\node_modules\htmlparser2\lib\esm\index.js133800621398151940 0
 150C:\Users\Micro\Desktop\Projetos\landing_page_restaurante\ebac_talks\node_modules\msgpackr-extract\node_modules\node-gyp-build-optional-packages\bin.js133800621409954440 0
 103C:\Users\Micro\Desktop\Projetos\landing_page_restaurante\ebac_talks\node_modules\sharp\lib\composite.js133800624558792284 0
-88C:\Users\Micro\Desktop\Projetos\landing_page_restaurante\ebac_talks\src\styles\main.scss133800624965476284 0
+88C:\Users\Micro\Desktop\Projetos\landing_page_restaurante\ebac_talks\src\styles\main.scss133830872476468981 0
 123C:\Users\Micro\Desktop\Projetos\landing_page_restaurante\ebac_talks\node_modules\source-map-js\lib\source-map-consumer.d.ts133800622769553544 0
 110C:\Users\Micro\Desktop\Projetos\landing_page_restaurante\ebac_talks\node_modules\type-fest\source\entries.d.ts133800621400536600 0
+87C:\Users\Micro\Desktop\Projetos\landing_page_restaurante\ebac_talks\src\images\data.png133143313500000000 0
+105C:\Users\Micro\Desktop\Projetos\landing_page_restaurante\ebac_talks\node_modules\domutils\lib\querying.js133800621400182708 0
+89C:\Users\Micro\Desktop\Projetos\landing_page_restaurante\ebac_talks\src\styles\_hero.scss133830872377519173 0
 97C:\Users\Micro\Desktop\Projetos\landing_page_restaurante\ebac_talks\node_modules\clone\.npmignore133800621397915921 0
 87C:\Users\Micro\Desktop\Projetos\landing_page_restaurante\ebac_talks\src\scripts\main.js133800621881252919 0
 112C:\Users\Micro\Desktop\Projetos\landing_page_restaurante\ebac_talks\node_modules\type-fest\source\utilities.d.ts133800621401708163 0
@@ -105,7 +108,6 @@
 120C:\Users\Micro\Desktop\Projetos\landing_page_restaurante\ebac_talks\node_modules\caniuse-lite\data\features\vibration.js133800621416178146 0
 114C:\Users\Micro\Desktop\Projetos\landing_page_restaurante\ebac_talks\node_modules\caniuse-lite\data\features\mp3.js133800621413787535 0
 90C:\Users\Micro\Desktop\Projetos\landing_page_restaurante\ebac_talks\src\images\backend.png133143312540000000 0
-87C:\Users\Micro\Desktop\Projetos\landing_page_restaurante\ebac_talks\src\images\data.png133143313500000000 0
 93C:\Users\Micro\Desktop\Projetos\landing_page_restaurante\ebac_talks\node_modules\caniuse-lite133800621416840825 1
 106C:\Users\Micro\Desktop\Projetos\landing_page_restaurante\ebac_talks\node_modules\caniuse-lite\package.json133800621416840825 0
 112C:\Users\Micro\Desktop\Projetos\landing_page_restaurante\ebac_talks\node_modules\@swc\helpers\_\_super_prop_base133800621410104140 1
@@ -482,8 +484,8 @@
 115C:\Users\Micro\Desktop\Projetos\landing_page_restaurante\ebac_talks\node_modules\lines-and-columns\build\index.d.ts133800621399283315 0
 99C:\Users\Micro\Desktop\Projetos\landing_page_restaurante\ebac_talks\node_modules\is-json\.npmignore133800621397927242 0
 118C:\Users\Micro\Desktop\Projetos\landing_page_restaurante\ebac_talks\node_modules\@parcel\core\test\PublicAsset.test.js133800621413178690 0
-103C:\Users\Micro\Desktop\Projetos\landing_page_restaurante\ebac_talks\node_modules\update-browserslist-db133800621399933120 1
 102C:\Users\Micro\Desktop\Projetos\landing_page_restaurante\ebac_talks\node_modules\json5\lib\register.js133800621402524000 0
+103C:\Users\Micro\Desktop\Projetos\landing_page_restaurante\ebac_talks\node_modules\update-browserslist-db133800621399933120 1
 123C:\Users\Micro\Desktop\Projetos\landing_page_restaurante\ebac_talks\node_modules\lightningcss\node\browserslistToTargets.js133800621402222870 0
 129C:\Users\Micro\Desktop\Projetos\landing_page_restaurante\ebac_talks\node_modules\posthtml\node_modules\domutils\lib\querying.d.ts133800621400993888 0
 103C:\Users\Micro\Desktop\Projetos\landing_page_restaurante\ebac_talks\node_modules\json5\lib\unicode.d.ts133800621403075758 0
@@ -869,7 +871,7 @@
 121C:\Users\Micro\Desktop\Projetos\landing_page_restaurante\ebac_talks\node_modules\posthtml\node_modules\domutils\readme.md133800621400694525 0
 99C:\Users\Micro\Desktop\Projetos\landing_page_restaurante\ebac_talks\node_modules\term-size\index.js133800621400277247 0
 112C:\Users\Micro\Desktop\Projetos\landing_page_restaurante\ebac_talks\node_modules\caniuse-lite\data\regions\BD.js133800621402459466 0
-95C:\Users\Micro\Desktop\Projetos\landing_page_restaurante\ebac_talks\dist\ebac_talks.59712999.js133800624968387340 0
+95C:\Users\Micro\Desktop\Projetos\landing_page_restaurante\ebac_talks\dist\ebac_talks.59712999.js133830866295361957 0
 127C:\Users\Micro\Desktop\Projetos\landing_page_restaurante\ebac_talks\node_modules\posthtml\node_modules\htmlparser2\lib\index.js133800621411135084 0
 125C:\Users\Micro\Desktop\Projetos\landing_page_restaurante\ebac_talks\node_modules\lmdb\dependencies\v8\v8-fast-api-calls-v16.h133800621405171577 0
 116C:\Users\Micro\Desktop\Projetos\landing_page_restaurante\ebac_talks\node_modules\@parcel\runtime-js\lib\JSRuntime.js133800621407641624 0
@@ -1890,7 +1892,7 @@
 112C:\Users\Micro\Desktop\Projetos\landing_page_restaurante\ebac_talks\node_modules\caniuse-lite\data\regions\GM.js133800621411424068 0
 135C:\Users\Micro\Desktop\Projetos\landing_page_restaurante\ebac_talks\node_modules\lmdb\node_modules\node-addon-api\napi-inl.deprecated.h133800621410408614 0
 124C:\Users\Micro\Desktop\Projetos\landing_page_restaurante\ebac_talks\node_modules\lmdb\node_modules\node-addon-api\napi-inl.h133800621410488660 0
-83C:\Users\Micro\Desktop\Projetos\landing_page_restaurante\ebac_talks\dist\index.html133800624968660134 0
+83C:\Users\Micro\Desktop\Projetos\landing_page_restaurante\ebac_talks\dist\index.html133830866659573297 0
 110C:\Users\Micro\Desktop\Projetos\landing_page_restaurante\ebac_talks\node_modules\domutils\lib\esm\package.json133800621400663611 0
 126C:\Users\Micro\Desktop\Projetos\landing_page_restaurante\ebac_talks\node_modules\lmdb\node_modules\node-addon-api\node_api.gyp133800621410350550 0
 122C:\Users\Micro\Desktop\Projetos\landing_page_restaurante\ebac_talks\node_modules\@swc\helpers\esm\_ts_dispose_resources.js133800621406433403 0
@@ -2187,9 +2189,9 @@
 115C:\Users\Micro\Desktop\Projetos\landing_page_restaurante\ebac_talks\node_modules\htmlparser2\lib\esm\index.d.ts.map133800621400212720 0
 113C:\Users\Micro\Desktop\Projetos\landing_page_restaurante\ebac_talks\node_modules\htmlparser2\lib\esm\package.json133800621400061149 0
 106C:\Users\Micro\Desktop\Projetos\landing_page_restaurante\ebac_talks\node_modules\@parcel\optimizer-css\src133800621408033036 1
-88C:\Users\Micro\Desktop\Projetos\landing_page_restaurante\ebac_talks\dist\scripts\main.js133800624968387340 0
+88C:\Users\Micro\Desktop\Projetos\landing_page_restaurante\ebac_talks\dist\scripts\main.js133830866295371960 0
 112C:\Users\Micro\Desktop\Projetos\landing_page_restaurante\ebac_talks\node_modules\htmlparser2\lib\esm\Parser.d.ts133800621401299233 0
-92C:\Users\Micro\Desktop\Projetos\landing_page_restaurante\ebac_talks\dist\scripts\main.js.map133800624968425505 0
+92C:\Users\Micro\Desktop\Projetos\landing_page_restaurante\ebac_talks\dist\scripts\main.js.map133830866295388182 0
 116C:\Users\Micro\Desktop\Projetos\landing_page_restaurante\ebac_talks\node_modules\htmlparser2\lib\esm\Parser.d.ts.map133800621400634381 0
 126C:\Users\Micro\Desktop\Projetos\landing_page_restaurante\ebac_talks\node_modules\@swc\helpers\esm\_class_private_method_set.js133800621405023470 0
 117C:\Users\Micro\Desktop\Projetos\landing_page_restaurante\ebac_talks\node_modules\htmlparser2\lib\esm\Tokenizer.js.map133800621400972872 0
@@ -2507,7 +2509,6 @@
 111C:\Users\Micro\Desktop\Projetos\landing_page_restaurante\ebac_talks\node_modules\domutils\lib\querying.d.ts.map133800621401557931 0
 112C:\Users\Micro\Desktop\Projetos\landing_page_restaurante\ebac_talks\node_modules\caniuse-lite\data\regions\KE.js133800621412748233 0
 110C:\Users\Micro\Desktop\Projetos\landing_page_restaurante\ebac_talks\node_modules\domhandler\lib\esm\index.d.ts133800621400255857 0
-105C:\Users\Micro\Desktop\Projetos\landing_page_restaurante\ebac_talks\node_modules\domutils\lib\querying.js133800621400182708 0
 108C:\Users\Micro\Desktop\Projetos\landing_page_restaurante\ebac_talks\node_modules\domutils\lib\stringify.d.ts133800621402438560 0
 108C:\Users\Micro\Desktop\Projetos\landing_page_restaurante\ebac_talks\node_modules\domutils\lib\traversal.d.ts133800621402503787 0
 111C:\Users\Micro\Desktop\Projetos\landing_page_restaurante\ebac_talks\node_modules\@parcel\watcher\src\Backend.hh133800621400961240 0
@@ -2945,7 +2946,7 @@
 129C:\Users\Micro\Desktop\Projetos\landing_page_restaurante\ebac_talks\node_modules\caniuse-lite\data\features\css-grid-animation.js133800621406329274 0
 118C:\Users\Micro\Desktop\Projetos\landing_page_restaurante\ebac_talks\node_modules\caniuse-lite\data\features\css-has.js133800621406394429 0
 104C:\Users\Micro\Desktop\Projetos\landing_page_restaurante\ebac_talks\node_modules\@parcel\fs\src\index.js133800621410340152 0
-94C:\Users\Micro\Desktop\Projetos\landing_page_restaurante\ebac_talks\dist\index.f75de5e1.js.map133800624968873706 0
+94C:\Users\Micro\Desktop\Projetos\landing_page_restaurante\ebac_talks\dist\index.f75de5e1.js.map133830866293025085 0
 112C:\Users\Micro\Desktop\Projetos\landing_page_restaurante\ebac_talks\node_modules\@parcel\workers\lib\cpuCount.js133800621404281481 0
 122C:\Users\Micro\Desktop\Projetos\landing_page_restaurante\ebac_talks\node_modules\caniuse-lite\data\features\css-hyphens.js133800621406414864 0
 132C:\Users\Micro\Desktop\Projetos\landing_page_restaurante\ebac_talks\node_modules\caniuse-lite\data\features\css-image-orientation.js133800621406433403 0
@@ -3290,7 +3291,7 @@
 114C:\Users\Micro\Desktop\Projetos\landing_page_restaurante\ebac_talks\node_modules\caniuse-lite\data\features\u2f.js133800621415955185 0
 97C:\Users\Micro\Desktop\Projetos\landing_page_restaurante\ebac_talks\node_modules\@swc\helpers\esm133800621406973679 1
 138C:\Users\Micro\Desktop\Projetos\landing_page_restaurante\ebac_talks\node_modules\caniuse-lite\data\features\url-scroll-to-text-fragment.js133800621416007582 0
-79C:\Users\Micro\Desktop\Projetos\landing_page_restaurante\ebac_talks\dist\styles133800624968271262 1
+79C:\Users\Micro\Desktop\Projetos\landing_page_restaurante\ebac_talks\dist\styles133830872476689356 1
 114C:\Users\Micro\Desktop\Projetos\landing_page_restaurante\ebac_talks\node_modules\caniuse-lite\data\features\url.js133800621416007582 0
 123C:\Users\Micro\Desktop\Projetos\landing_page_restaurante\ebac_talks\node_modules\@parcel\profiler\lib\SamplingProfiler.d.ts133800621405432126 0
 125C:\Users\Micro\Desktop\Projetos\landing_page_restaurante\ebac_talks\node_modules\caniuse-lite\data\features\variable-fonts.js133800621416105839 0
@@ -3412,6 +3413,7 @@
 132C:\Users\Micro\Desktop\Projetos\landing_page_restaurante\ebac_talks\node_modules\@swc\helpers\_\_class_static_private_field_spec_set133800621408388961 1
 138C:\Users\Micro\Desktop\Projetos\landing_page_restaurante\ebac_talks\node_modules\@parcel\core\test\fixtures\config-node-pipeline\.parcelrc133800621411054818 0
 128C:\Users\Micro\Desktop\Projetos\landing_page_restaurante\ebac_talks\node_modules\@swc\helpers\_\_class_static_private_method_get133800621408428828 1
+91C:\Users\Micro\Desktop\Projetos\landing_page_restaurante\ebac_talks\dist\fundo.a62a0635.png133830866293682975 0
 106C:\Users\Micro\Desktop\Projetos\landing_page_restaurante\ebac_talks\node_modules\@swc\helpers\_\_construct133800621408450108 1
 132C:\Users\Micro\Desktop\Projetos\landing_page_restaurante\ebac_talks\node_modules\@swc\helpers\_\_create_for_of_iterator_helper_loose133800621408501312 1
 109C:\Users\Micro\Desktop\Projetos\landing_page_restaurante\ebac_talks\node_modules\@swc\helpers\_\_create_super133800621408511369 1
@@ -3661,7 +3663,7 @@
 111C:\Users\Micro\Desktop\Projetos\landing_page_restaurante\ebac_talks\node_modules\@swc\helpers\esm\_ts_values.js133800621406644755 0
 98C:\Users\Micro\Desktop\Projetos\landing_page_restaurante\ebac_talks\node_modules\@parcel\graph\lib133800621406761589 1
 108C:\Users\Micro\Desktop\Projetos\landing_page_restaurante\ebac_talks\node_modules\@swc\helpers\esm\_update.js133800621406751562 0
-99C:\Users\Micro\Desktop\Projetos\landing_page_restaurante\ebac_talks\dist\ebac_talks.59712999.js.map133800624968425505 0
+99C:\Users\Micro\Desktop\Projetos\landing_page_restaurante\ebac_talks\dist\ebac_talks.59712999.js.map133830866295388182 0
 107C:\Users\Micro\Desktop\Projetos\landing_page_restaurante\ebac_talks\node_modules\@swc\helpers\esm\_using.js133800621406811422 0
 119C:\Users\Micro\Desktop\Projetos\landing_page_restaurante\ebac_talks\node_modules\@swc\helpers\esm\_wrap_native_super.js133800621406863756 0
 118C:\Users\Micro\Desktop\Projetos\landing_page_restaurante\ebac_talks\node_modules\@swc\helpers\esm\_write_only_error.js133800621406885498 0
@@ -4402,7 +4404,8 @@
 112C:\Users\Micro\Desktop\Projetos\landing_page_restaurante\ebac_talks\node_modules\.bin\update-browserslist-db.cmd133800621484919482 0
 112C:\Users\Micro\Desktop\Projetos\landing_page_restaurante\ebac_talks\node_modules\.bin\update-browserslist-db.ps1133800621484919482 0
 93C:\Users\Micro\Desktop\Projetos\landing_page_restaurante\ebac_talks\dist\backend.3c327b9e.png133800624968324805 0
-90C:\Users\Micro\Desktop\Projetos\landing_page_restaurante\ebac_talks\dist\index.f75de5e1.js133800624968852349 0
-80C:\Users\Micro\Desktop\Projetos\landing_page_restaurante\ebac_talks\dist\scripts133800624968436859 1
-88C:\Users\Micro\Desktop\Projetos\landing_page_restaurante\ebac_talks\dist\styles\main.css133800624968223850 0
-92C:\Users\Micro\Desktop\Projetos\landing_page_restaurante\ebac_talks\dist\styles\main.css.map133800624968259533 0
+95C:\Users\Micro\Desktop\Projetos\landing_page_restaurante\ebac_talks\dist\ebac_logo.a50a4e19.svg133830866293246573 0
+90C:\Users\Micro\Desktop\Projetos\landing_page_restaurante\ebac_talks\dist\index.f75de5e1.js133830866292984709 0
+80C:\Users\Micro\Desktop\Projetos\landing_page_restaurante\ebac_talks\dist\scripts133830866295398733 1
+88C:\Users\Micro\Desktop\Projetos\landing_page_restaurante\ebac_talks\dist\styles\main.css133830872476689356 0
+92C:\Users\Micro\Desktop\Projetos\landing_page_restaurante\ebac_talks\dist\styles\main.css.map133830872476689356 0
